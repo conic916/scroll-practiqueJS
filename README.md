@@ -1,2 +1,2 @@
 # scroll-practiqueJS
-https://conic916.github.io/scroll-practiqueJS/.
+https://katarzyna-da-silva.github.io/scroll-practiqueJS/
